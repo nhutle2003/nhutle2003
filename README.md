@@ -59,6 +59,7 @@ Looking for an opportunity to grow as an Automotive Embedded Software Engineer.
 - Implemented multi-button handling (single press, long press) to control RGB LEDs via PWM and buzzer feedback.
 - Integrated peripherals including ADC (DMA), I2C sensors, SPI LCD, and periodic timer scheduling.
 
+> Focus: Simulation of a switch device using the Lumi SmartHome application.
 ---
 
 ## 📫 Contact
