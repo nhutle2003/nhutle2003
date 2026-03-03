@@ -22,7 +22,7 @@ Looking for an opportunity to grow as an Automotive Embedded Software Engineer.
 - State machine implementation
 
 ### Microcontroller Experience
-- STM32F1 Series
+- STM32F1 & STM32F4 Series
 - Peripheral configuration: GPIO, UART, SPI, CAN
 - Working with .ioc configuration files
 
@@ -34,15 +34,15 @@ Looking for an opportunity to grow as an Automotive Embedded Software Engineer.
 
 ### Tools
 - STM32CubeIDE
-- Keil MDK
 - Git & GitHub
 - Basic MATLAB usage
+- MS Office
 
 ---
 
 ## 🚀 Academic & Personal Project
 
-### ACC Automotive Gateway Node
+### 🔹 ACC Automotive Gateway Node
 
 - Built STM32-based gateway firmware
 - Integrated MCP2515 CAN controller
@@ -52,6 +52,12 @@ Looking for an opportunity to grow as an Automotive Embedded Software Engineer.
 - Debugged system via UART monitoring
 
 > Focus: Practical understanding of automotive communication systems.
+
+### 🔹 Smart Touch Switch Simulator (STM32F401RE)
+
+- Designed event-driven embedded firmware with state machine architecture.
+- Implemented multi-button handling (single press, long press) to control RGB LEDs via PWM and buzzer feedback.
+- Integrated peripherals including ADC (DMA), I2C sensors, SPI LCD, and periodic timer scheduling.
 
 ---
 
