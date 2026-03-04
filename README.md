@@ -44,12 +44,10 @@ Looking for an opportunity to grow as an Automotive Embedded Software Engineer.
 
 ### 🔹 ACC Automotive Gateway Node
 
-- Built STM32-based gateway firmware
-- Integrated MCP2515 CAN controller
-- Implemented CAN transmit & receive functions
-- Used interrupt-driven communication handling
-- Structured firmware into modular files (Core / Drivers)
-- Debugged system via UART monitoring
+- Developed embedded firmware on STM32 for an Electronic Throttle Control (ETC) system.
+- Implemented PWM-based DC motor control with TPS sensor feedback for accurate throttle position tracking.
+- Configured CAN communication for real-time data exchange between control nodes.
+- Designed modular firmware architecture and performed system debugging via UART monitoring.
 
 ### 🔹 Smart Touch Switch Simulator (STM32F401RE)
 
