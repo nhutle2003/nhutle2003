@@ -1,63 +1,64 @@
 # 👋 Hi, I'm Le Minh Nhut
 
-🚗 Fresher Automotive Embedded Engineer  
+🚗 Automotive Embedded Engineer (Fresher)  
 📍 Ho Chi Minh City, Vietnam  
 
 ---
 
 ## 🎯 Career Objective
 
-A motivated fresher in Embedded Systems with hands-on experience in STM32-based automotive communication projects.  
-Strong interest in CAN protocol and real-time firmware development.  
-Looking for an opportunity to grow as an Automotive Embedded Software Engineer.
+Motivated Automotive Embedded Engineer with hands-on experience in STM32-based firmware development and CAN communication systems.  
+Strong interest in real-time embedded software, automotive communication protocols, and ECU-level system design.  
+Seeking an opportunity to grow as an Automotive Embedded Software Engineer in a professional R&D environment.
 
 ---
 
-## 🛠 Technical Foundation
+## 🛠 Technical Skills
 
 ### Programming
-- C / Embedded C
-- Interrupt handling
-- Basic real-time firmware structure
-- State machine implementation
+- Embedded C
+- Interrupt-driven programming
+- State machine architecture
+- Real-time firmware design
 
-### Microcontroller Experience
-- STM32F1 & STM32F4 Series
-- Peripheral configuration: GPIO, UART, SPI, CAN
-- Working with .ioc configuration files
+### Microcontrollers
+- STM32F1 / STM32F4 Series
+- Peripheral configuration: GPIO, UART, SPI, CAN, PWM, ADC (DMA)
+- STM32CubeMX (.ioc configuration)
 
 ### Automotive Communication
-- Understanding CAN frame structure
-- Basic arbitration mechanism knowledge
-- MCP2515 CAN controller integration (SPI-based)
+- CAN protocol (frame structure, arbitration mechanism)
+- MCP2515 CAN controller (SPI interface)
 - Multi-node CAN communication testing
 
 ### Tools
 - STM32CubeIDE
-- Git & GitHub
-- Basic MATLAB usage
+- Git / GitHub
+- MATLAB (basic simulation)
 - MS Office
 
 ---
 
-## 🚀 Academic & Personal Project
+## 🚀 Projects
 
-### 🔹 ACC Automotive Gateway Node
+### 🔹 [ACC Automotive Gateway Node](https://github.com/nhutle2003/ACC_Automotive_Gateway_Node)
 
-- Developed embedded firmware on STM32 for an Electronic Throttle Control (ETC) system.
-- Implemented PWM-based DC motor control with TPS sensor feedback for accurate throttle position tracking.
-- Configured CAN communication for real-time data exchange between control nodes.
-- Designed modular firmware architecture and performed system debugging via UART monitoring.
+- Developed embedded firmware for an Electronic Throttle Control (ETC) system using STM32.
+- Implemented PWM-based DC motor control with TPS sensor feedback for precise throttle positioning.
+- Configured CAN communication for real-time data exchange between nodes.
+- Designed modular firmware architecture and performed UART-based debugging and monitoring.
 
-### 🔹 Smart Touch Switch Simulator (STM32F401RE)
+---
 
-- Designed event-driven embedded firmware with state machine architecture.
-- Implemented multi-button handling (single press, long press) to control RGB LEDs via PWM and buzzer feedback.
-- Integrated peripherals including ADC (DMA), I2C sensors, SPI LCD, and periodic timer scheduling.
+### 🔹 [Smart Touch Switch Simulator (STM32F401RE)](https://github.com/nhutle2003/Smart_Touch_Switch_Simulator)
+
+- Designed event-driven firmware using state machine architecture.
+- Implemented multi-button handling (short/long press) with PWM-controlled RGB LED and buzzer feedback.
+- Integrated peripherals: ADC (DMA), I2C sensor, SPI LCD, periodic timer scheduling.
 
 ---
 
 ## 📫 Contact
 
-- Email: nhutle.work@gmail.com
-- GitHub: https://github.com/nhutle2003
+- 📧 Email: nhutle.work@gmail.com  
+- 💻 GitHub: https://github.com/nhutle2003
