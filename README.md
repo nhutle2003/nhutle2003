@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Le Minh Nhut
+# Le Minh Nhut
 
 🚗 Automotive Embedded Engineer (Fresher)  
 📍 Ho Chi Minh City, Vietnam  
