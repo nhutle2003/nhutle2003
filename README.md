@@ -49,10 +49,10 @@ Automotive Engineering graduate with hands-on experience in STM32 firmware devel
 
 ### [PC Simulator IoT Communication System (STM32F401RE)](https://github.com/nhutle2003/PC_Simulator_Kit_IoT)
 
-- Developed a bidirectional IoT simulation system connecting STM32F401RE to a PC host over UART for real-time monitoring and remote device control.
-- Designed UART message-based communication for two-way command and status exchange.
-- Built an event-driven firmware architecture with state machine and callback-based command handling.
-- Integrated temperature, humidity, and light sensing with periodic transmission to the PC dashboard.
+- Implemented STM32 firmware for a prebuilt PC Simulator KIT IoT to support UART-based monitoring and remote control functions.
+- Developed UART message handling for command reception and device status transmission between STM32F401RE and the PC host.
+- Applied an event-driven firmware architecture using state machine and callback-based command handling.
+- Read temperature, humidity, and light sensors and transmitted periodic data to the PC dashboard for realtime monitoring.
 
 ---
 
