@@ -28,7 +28,6 @@ Automotive Engineering graduate with hands-on experience in STM32 firmware devel
 - STM32CubeIDE
 - Git / GitHub
 - Serial Monitor
-- MATLAB (basic)
 
 ---
 
