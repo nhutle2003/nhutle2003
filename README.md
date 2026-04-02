@@ -1,64 +1,63 @@
 # Le Minh Nhut
 
-🚗 Automotive Embedded Engineer (Fresher)  
-📍 Ho Chi Minh City, Vietnam  
+Automotive Embedded Engineer  
+Ho Chi Minh City, Vietnam
 
 ---
 
-## 🎯 Career Objective
+## Career Objective
 
-Motivated Automotive Embedded Engineer with hands-on experience in STM32-based firmware development and CAN communication systems.  
-Strong interest in real-time embedded software, automotive communication protocols, and ECU-level system design.  
-Seeking an opportunity to grow as an Automotive Embedded Software Engineer in a professional R&D environment.
+Automotive Engineering graduate with hands-on experience in STM32 firmware development, CAN-based communication, and peripheral integration. Comfortable with Embedded C, microcontroller drivers, and real-time firmware design. Seeking an entry-level Automotive Embedded Software Engineer role focused on ECU, body control, or in-vehicle communication systems.
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
 ### Programming
 - Embedded C
-- Interrupt-driven programming
-- State machine architecture
+- Interrupt handling
 - Real-time firmware design
+- State machine architecture
 
-### Microcontrollers
-- STM32F1 / STM32F4 Series
-- Peripheral configuration: GPIO, UART, SPI, CAN, PWM, ADC (DMA)
-- STM32CubeMX (.ioc configuration)
+### Microcontrollers and Peripherals
+- STM32F1 / STM32F4
+- GPIO, UART, SPI, I2C, CAN, PWM, ADC (DMA)
+- MCP2515
 
-### Automotive Communication
-- CAN protocol (frame structure, arbitration mechanism)
-- MCP2515 CAN controller (SPI interface)
-- Multi-node CAN communication testing
-
-### Tools
+### Development Tools
 - STM32CubeIDE
 - Git / GitHub
-- MATLAB (basic simulation)
-- MS Office
+- Serial Monitor
+- MATLAB (basic)
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🔹 [ACC Automotive Gateway Node](https://github.com/nhutle2003/ACC_Automotive_Gateway_Node)
+### [ACC Automotive Gateway Node](https://github.com/nhutle2003/ACC_Automotive_Gateway_Node)
 
-- Developed embedded firmware for an Electronic Throttle Control (ETC) system using STM32.
-- Implemented PWM-based DC motor control with TPS sensor feedback for precise throttle positioning.
-- Configured CAN communication for real-time data exchange between nodes.
-- Designed modular firmware architecture and performed UART-based debugging and monitoring.
+- Developed firmware for an automotive gateway node simulating Electronic Throttle Control (ETC) and ECU communication.
+- Implemented PWM motor control with TPS feedback for closed-loop control.
+- Designed CAN communication between ECU nodes for real-time data exchange.
+- Performed system testing, UART debugging, and ECU simulation.
+
+### [Smart Touch Switch Simulator (STM32F401RE)](https://github.com/nhutle2003/Smart_Touch_Switch_Simulator)
+
+- Developed an event-driven embedded system simulating a smart touch switch with multi-input control and visual/audio feedback.
+- Implemented multi-button input handling with short and long press detection.
+- Controlled RGB LED using PWM and integrated buzzer feedback.
+- Interfaced peripherals including ADC (DMA), I2C sensor, and SPI LCD.
+
+### [PC Simulator IoT Communication System (STM32F401RE)](https://github.com/nhutle2003/PC_Simulator_Kit_IoT)
+
+- Developed a bidirectional IoT simulation system connecting STM32F401RE to a PC host over UART for real-time monitoring and remote device control.
+- Designed UART message-based communication for two-way command and status exchange.
+- Built an event-driven firmware architecture with state machine and callback-based command handling.
+- Integrated temperature, humidity, and light sensing with periodic transmission to the PC dashboard.
 
 ---
 
-### 🔹 [Smart Touch Switch Simulator (STM32F401RE)](https://github.com/nhutle2003/Smart_Touch_Switch_Simulator)
+## Contact
 
-- Designed event-driven firmware using state machine architecture.
-- Implemented multi-button handling (short/long press) with PWM-controlled RGB LED and buzzer feedback.
-- Integrated peripherals: ADC (DMA), I2C sensor, SPI LCD, periodic timer scheduling.
-
----
-
-## 📫 Contact
-
-- 📧 Email: nhutle.work@gmail.com  
-- 💻 GitHub: https://github.com/nhutle2003
+- Email: nhutle.work@gmail.com
+- GitHub: https://github.com/nhutle2003
